@@ -18,5 +18,5 @@ function fifthSubmit () {
 
 // Creates function that reveals an image when the user clicks on "Hint" for the fifth riddle.
 function fifthHint () {
-  document.getElementById('fifthPicture').style.display = 'block'
+  document.getElementById('fifth-picture').style.display = 'block'
 }
